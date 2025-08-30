@@ -153,14 +153,7 @@ const Testimonials = () => {
         </div>
 
         {/* CTA Buttons */}
-        <div className="mt-16 flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <Button 
-            className="btn-hero px-8 py-3 text-lg"
-            onClick={() => window.open('https://api.whatsapp.com/send/?phone=918368420841&text&type=phone_number&app_absent=0', '_blank')}
-          >
-            Make My Magnet
-          </Button>
-          
+        <div className="mt-16 flex justify-center items-center">
           <Button 
             className="btn-hero px-8 py-3 text-lg"
             onClick={() => window.open('https://api.whatsapp.com/send/?phone=918368420841&text&type=phone_number&app_absent=0', '_blank')}

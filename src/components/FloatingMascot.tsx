@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import chumbakMascot from "@/assets/chumbak2.webp";
+import chumbakMascot from "@/assets/chumbakwhite.gif";
 
 const FloatingMascot = () => {
   const [scrollY, setScrollY] = useState(0);

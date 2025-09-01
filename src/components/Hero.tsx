@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
-import chumbakMascot from "@/assets/chumbak2.webp";
+import chumbakMascot from "@/assets/chumbakrm.gif";
 import heroBackground from "@/assets/hero-background.jpg";
 
 const Hero = () => {
